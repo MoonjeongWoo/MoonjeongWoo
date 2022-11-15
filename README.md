@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **Frontend Engineer**
 
 Email: mbh219@naver.com <br>
-Notion: [donghee Notion Link](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b567dfb4129b73ce4fcf363a3c3)
+Notion: [Jeongwoo Notion](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b567dfb4129b73ce4fcf363a3c3)
   
   
 <h3> ✨ S t a c k ✨ </h3> 
