@@ -1,11 +1,5 @@
-### Hi there 👋
-
 <!--
 **MoonjeongWoo/Moonjeongwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<!--
-**ymaru02/ymaru02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Donghee%20Yun🎨&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=jeongWoo%20Moon🎨&fontSize=90)
 
 <div align=center>
   
   
 **Frontend Engineer**
 
-Email: dyun022@gmail.com <br>
+Email: Moonjeongwoo@gmail.com <br>
 Notion: [donghee Notion Link](https://canyon-peace-e42.notion.site/d5fb740f1b39436c8b4f07cfaa5bb75c)
   
   
