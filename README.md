@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 <strong>😆만나서 반가워요!!</strong>
   
-**Frontend Engineer**
+**Front-end Developer**
 Email: mbh219@naver.com <br>
 Notion: [Jeongwoo Notion](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b567dfb4129b73ce4fcf363a3c3)
   
