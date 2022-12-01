@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=jeongWoo%20Moon🎨&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=jeongWoo%20Moon😊&fontSize=90)
 
 <div align=center>
   
@@ -43,6 +43,7 @@ Notion: [Jeongwoo Notion](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b5
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonjeongWoo)](https://github.com/MoonjeongWoo/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonjeongWoo)](https://github.com/MoonjeongWoo/github-readme-stats)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)  
+<div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) 
+</div>
 </div>
