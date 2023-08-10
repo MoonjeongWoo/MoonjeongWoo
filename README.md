@@ -40,8 +40,6 @@ Notion: [Jeongwoo Notion](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b5
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonjeongWoo%2Fhit-counter&count_bg=%23999FFA&title_bg=%23E8B4B4&icon=&icon_color=%23DE7171&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonjeongWoo)](https://github.com/MoonjeongWoo/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonjeongWoo)](https://github.com/MoonjeongWoo/github-readme-stats)
 
 </div>
