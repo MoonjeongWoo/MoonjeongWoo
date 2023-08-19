@@ -31,6 +31,10 @@ Notion: [Jeongwoo Notion](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b5
 ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 
+<h3> 🎓 E d u c a t i o n 🎓 </h3>
+
+🎓 Graduated in Computer Science from Korea University Sejong Campus
+
 </div>
 
 
