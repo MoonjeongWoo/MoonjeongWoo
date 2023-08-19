@@ -44,6 +44,20 @@
 
 ---
 
+💼 **SCM**
+
+![Git Badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+
+---
+
+📞 **Communication**
+
+![Slack Badge](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat-square)
+![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
+
+---
+
 📈 **Statistics**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonjeongWoo&layout=compact&theme=radical)
@@ -55,10 +69,4 @@
 📥 **Contact & Collaboration**
 
 - Feel free to connect with me. Let's collaborate and bring our ideas to life.
-- You can always open an issue or pull request on one of my repositories if you'd like to contribute!
-
-![Visitor Count](https://profile-counter.glitch.me/MoonjeongWoo/count.svg)
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=30)
+- You can always open an issue or pull request
