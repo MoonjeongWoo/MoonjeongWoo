@@ -70,8 +70,7 @@ Notion: [Jeongwoo Notion](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b5
 ![MoonjeongWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonjeongWoo&show_icons=true&theme=radical)
 <br>
 ![Visitor Count](https://profile-counter.glitch.me/MoonjeongWoo/count.svg)
-<br>
-![MoonjeongWoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoonjeongWoo&theme=radical)
+
 
 
 <div align=center>
