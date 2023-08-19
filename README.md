@@ -81,4 +81,7 @@ Feel free to connect with me. Let's collaborate and bring our ideas to life.
 
 </div>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=90)
+
+
 
