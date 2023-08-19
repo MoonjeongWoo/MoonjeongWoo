@@ -31,7 +31,6 @@ Notion: [Jeongwoo Notion](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b5
   <br/>
 ![image](https://user-images.githubusercontent.com/106897607/201862262-e68dcc0c-b570-4b95-b36c-66bbaf2a538a.png)
 ![image](https://user-images.githubusercontent.com/106897607/201862410-8005efa4-965a-4526-bf10-82efd09f6bc8.png)
-![image](https://user-images.githubusercontent.com/106897607/201863611-64bdc54e-1a5c-4254-93e8-07f6d764d73e.png)  
 <h3> ⚙️T O O L ⚙️ </h3>
   
 ![image](https://user-images.githubusercontent.com/106897607/201862973-a6e7f24c-73eb-4646-bcae-aa7a4aa56cd8.png)
