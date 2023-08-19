@@ -66,7 +66,9 @@ Notion: [Jeongwoo Notion](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b5
 ![Nginx Badge](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonjeongWoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![MoonjeongWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonjeongWoo&show_icons=true&theme=radical)
+<br>
 ![Visitor Count](https://profile-counter.glitch.me/MoonjeongWoo/count.svg)
 
 
