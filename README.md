@@ -47,6 +47,25 @@ Notion: [Jeongwoo Notion](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b5
 ![Total Commits Badge](https://img.shields.io/badge/Total%20Commits-500+-blue?style=for-the-badge&logo=github)
 ![Commits This Month Badge](https://img.shields.io/badge/Commits%20This%20Month-50-green?style=for-the-badge&logo=github)
 
+<h3> 🔄 CI/CD 🔄 </h3>
+
+![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+
+<h3> ☁️ Cloud ☁️ </h3>
+
+![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![EC2 Badge](https://img.shields.io/badge/EC2-%23F58536.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amplify Badge](https://img.shields.io/badge/Amplify-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3 Badge](https://img.shields.io/badge/S3-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ECR Badge](https://img.shields.io/badge/ECR-%23F58536.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Lightsail Badge](https://img.shields.io/badge/Lightsail-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![Nginx Badge](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+
+
 </div>
 
 
