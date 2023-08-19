@@ -70,3 +70,6 @@
 
 - Feel free to connect with me. Let's collaborate and bring our ideas to life.
 - You can always open an issue or pull request
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=30)
