@@ -77,7 +77,6 @@ Notion: [Jeongwoo Notion](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b5
 
 <h3> 📝 Footer 📝 </h3>
 Thank you for visiting my profile! 🌼  
-Feel free to connect with me. Let's collaborate and bring our ideas to life.  
 
 </div>
 
