@@ -42,6 +42,11 @@ Notion: [Jeongwoo Notion](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b5
 
 🎓 Graduated in Computer Science from Korea University Sejong Campus
 
+<h3> 📜 Current Commits 📜 </h3>
+
+![Total Commits Badge](https://img.shields.io/badge/Total%20Commits-500+-blue?style=for-the-badge&logo=github)
+![Commits This Month Badge](https://img.shields.io/badge/Commits%20This%20Month-50-green?style=for-the-badge&logo=github)
+
 </div>
 
 
