@@ -66,8 +66,13 @@ Notion: [Jeongwoo Notion](https://www.notion.so/moonjeongwoo/JW-s-notion-4b964b5
 ![Nginx Badge](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
 
+<div align=center>
+
+<h3> 📝 Footer 📝 </h3>
+Thank you for visiting my profile! 🌼  
+Feel free to connect with me. Let's collaborate and bring our ideas to life.  
+![Visitor Count Badge](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMoonjeongWoo.MoonjeongWoo%2Freadme)
+
 </div>
-
-
 
 </div>
