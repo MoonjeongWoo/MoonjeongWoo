@@ -55,7 +55,7 @@
 
 ![Slack Badge](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat-square)
 ![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
-
+https://velog.io/@jw_0219
 ---
 
 📈 **Statistics**
