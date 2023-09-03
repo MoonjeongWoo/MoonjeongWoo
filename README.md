@@ -65,6 +65,7 @@ https://velog.io/@jw_0219
 
 ![MoonjeongWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonjeongWoo&show_icons=true&theme=radical)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MoonjeongWoo.MoonjeongWoo)
 
 ---
 
