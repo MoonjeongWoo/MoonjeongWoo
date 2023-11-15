@@ -24,8 +24,10 @@
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat-square)
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+![Vanilla JS Badge](https://img.shields.io/badge/-Vanilla_JS-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
 ---
+
 
 🌀 **DevOps & Cloud**
 
